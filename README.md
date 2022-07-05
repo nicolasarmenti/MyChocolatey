@@ -1,6 +1,17 @@
 # My Chocolatey
 List of usefull chocolatey packages
 
+## Install Chocolatey
+1. Ensure that you are using an administrative shell
+2. Install with powershell.exe
+    ```
+    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+    ```
+3. Paste the copied text into your shell and press Enter.
+4. Wait a few seconds for the command to complete.
+5. If you don't see any errors, you are ready to use Chocolatey!
+
+
 ## Programming :computer:
 [Git](https://community.chocolatey.org/packages/git.install)
 ```
