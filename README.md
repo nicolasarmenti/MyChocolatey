@@ -2,7 +2,9 @@
 List of usefull chocolatey packages
 
 ## Programming
-'choco install git.install'
+```
+choco install git.install
+```
 'choco install python3'
 'choco install sql-server-management-studio'
 
