@@ -1,7 +1,7 @@
 # My Chocolatey
 List of usefull chocolatey packages
 
-## Programming
+## Programming :computer:
 [Git](https://community.chocolatey.org/packages/git.install)
 ```
 choco install git.install
@@ -27,7 +27,7 @@ choco install autohotkey.install
 choco install python3
 ```
 
-## General
+## General :hammer_and_wrench:
 [Keypirinha 2.26](https://community.chocolatey.org/packages/keypirinha)
 ```
 choco install keypirinha
@@ -88,7 +88,7 @@ choco install hwmonitor
 choco install openssh
 ```
 
-## Multimedia
+## Multimedia :framed_picture:
 [Sumatra PDF (Install)](https://community.chocolatey.org/packages/sumatrapdf.install)
 ```
 choco install sumatrapdf.install
@@ -119,7 +119,7 @@ choco install youtube-dl
 choco install ffmpeg
 ```
 
-## Compression
+## Compression :floppy_disk:
 [7-Zip (Install)](https://community.chocolatey.org/packages/7zip.install)
 ```
 choco install 7zip.install
