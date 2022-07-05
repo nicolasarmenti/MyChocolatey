@@ -2,6 +2,7 @@
 List of usefull chocolatey packages
 
 ## Programming
+Git
 ```
 choco install git.install
 ```
