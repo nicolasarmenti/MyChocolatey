@@ -109,6 +109,11 @@ choco install hwmonitor
 choco install openssh
 ```
 
+[qBittorrent](https://community.chocolatey.org/packages/qbittorrent)
+```
+choco install qbittorrent
+```
+
 ## Multimedia :framed_picture:
 [Sumatra PDF (Install)](https://community.chocolatey.org/packages/sumatrapdf.install)
 ```
