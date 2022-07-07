@@ -114,6 +114,11 @@ choco install openssh
 choco install qbittorrent
 ```
 
+[Choco Cleaner](https://community.chocolatey.org/packages/choco-cleaner)
+```
+choco install choco-cleaner --params "'/NOTASK:TRUE'"
+```
+
 ## Multimedia :framed_picture:
 [Sumatra PDF (Install)](https://community.chocolatey.org/packages/sumatrapdf.install)
 ```
