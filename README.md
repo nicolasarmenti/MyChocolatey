@@ -59,6 +59,11 @@ choco install winscp.install
 choco install powertoys
 ```
 
+[John's Background Switcher](https://community.chocolatey.org/packages/jbs)
+```
+choco install jbs
+```
+
 [AstroGrep](https://community.chocolatey.org/packages/AstroGrep)
 ```
 choco install astrogrep
