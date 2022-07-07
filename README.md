@@ -33,9 +33,14 @@ choco install vscode.install
 choco install autohotkey.install
 ```
 
-[Python 3.x](https://community.chocolatey.org/packages/python3/3.10.5)
+[Python 3.x](https://community.chocolatey.org/packages/python3/)
 ```
 choco install python3
+```
+
+[Postman](https://community.chocolatey.org/packages/postman)
+```
+choco install postman
 ```
 
 ## General :hammer_and_wrench:
