@@ -160,3 +160,9 @@ choco install 7zip.install
 ```
 choco install winrar
 ```
+
+## AV :syringe:
+[Kaspersky Virus Removal Tool](https://community.chocolatey.org/packages/kvrt)
+```
+choco install kvrt
+```
