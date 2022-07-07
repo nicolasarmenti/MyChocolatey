@@ -150,6 +150,11 @@ choco install youtube-dl
 choco install ffmpeg
 ```
 
+[HandBrake (Install)](https://community.chocolatey.org/packages/handbrake.install)
+```
+choco install handbrake.install
+```
+
 ## Compression :floppy_disk:
 [7-Zip (Install)](https://community.chocolatey.org/packages/7zip.install)
 ```
