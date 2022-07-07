@@ -166,3 +166,8 @@ choco install winrar
 ```
 choco install kvrt
 ```
+
+[AdwCleaner (Portable)](https://community.chocolatey.org/packages/adwcleaner)
+```
+choco install adwcleaner
+```
