@@ -74,9 +74,14 @@ choco install jbs
 choco install astrogrep
 ```
 
+[winmerge](https://community.chocolatey.org/packages/winmerge)
+```
+choco install astrogrep
+```
+
 [cURL](https://community.chocolatey.org/packages/curl)
 ```
-choco install curl
+choco install winmerge
 ```
 
 [ShutUp10](https://community.chocolatey.org/packages/shutup10)
