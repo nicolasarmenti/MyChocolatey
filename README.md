@@ -125,14 +125,14 @@ choco install choco-cleaner --params "'/NOTASK:TRUE'"
 ```
 
 [WizTree](https://community.chocolatey.org/packages/wiztree)
-...
+```
 choco install wiztree
-...
+```
 
 [Ventoy](https://community.chocolatey.org/packages/ventoy)
-...
+```
 choco install ventoy
-...
+```
 
 ## Multimedia :framed_picture:
 [Sumatra PDF (Install)](https://community.chocolatey.org/packages/sumatrapdf.install)
@@ -171,9 +171,9 @@ choco install handbrake.install
 ```
 
 [Voicemeeter (Banana + Install)](https://community.chocolatey.org/packages/voicemeeter-banana.install)
-...
+```
 choco install voicemeeter-banana.install
-...
+```
 
 ## Compression :floppy_disk:
 [7-Zip (Install)](https://community.chocolatey.org/packages/7zip.install)
