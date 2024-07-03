@@ -196,3 +196,8 @@ choco install kvrt
 ```
 choco install adwcleaner
 ```
+
+[AutoRuns]([https://community.chocolatey.org/packages/adwcleaner](https://community.chocolatey.org/packages/AutoRuns))
+```
+choco install autoruns
+```
